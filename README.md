@@ -34,4 +34,4 @@ votes = county_votes.get(county_name)
 
 active_voter_percentage = float(votes) / float(county_voters) * 100
 
-Something else we could change based on what level the election is would be the variables. If if was a mayoral campaign we could change the "county" variables to "district". We could also add other variables like candidates or different districts with the append. function.
+Something else we could change based on what level the election is would be the variables. If this were a mayoral election, we could change the "county" variables to "district". We could also add other variables like candidates or different districts with the append. function.
